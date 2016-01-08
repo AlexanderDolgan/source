@@ -23,5 +23,5 @@
 <h1>Schools</h1>
 <a href="https://www.codecademy.com" target="_blank">codecademy.com</a></br>
 <a href="https://teamtreehouse.com" target="_blank">treehouse.com</a></br>
-<a href="https://htmlacademy.ru/" target="_blank">htmlacademy.ru/</a></br>
+<a href="https://htmlacademy.ru/" target="_blank">htmlacademy.ru</a></br>
 
