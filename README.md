@@ -1,15 +1,15 @@
 # source
 <h1>CSS</h1>
-<a href="https://css-tricks.com/examples/ShapesOfCSS/" target="blank">HTML shapes</a></br>
 <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="blank">Flexbox</a></br>
-<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="blank">Shapes / clip-path/ masking</a></br>
+<a href="http://spicedpages.ru/2016/01/10/shapes/" target="blank">Shapes / clip-path/ masking</a></br>
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
+<a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
 
 <h1>SVG</h1>
 <a href="http://www.mobilefish.com/services/base64/base64.php" target="_blank">Base64 encoder and decoder</a></br>
-  
-  <h2>article</h2>
-  <a href="https://css-tricks.com/using-svg/" target="_blank">Using SVG / CSS-Tricks</a></br>
+
+<h2>article</h2>
+<a href="https://css-tricks.com/using-svg/" target="_blank">Using SVG / CSS-Tricks</a></br>
 
 
 <h1>Type</h1>
@@ -21,7 +21,6 @@
 <a href="http://tools.pingdom.com/fpt/" target="_blank">Pingdom Website Speed Test</a></br>
 
 <h1>Tools</h1>
-<a href="http://docs.emmet.io/cheat-sheet/" target="_blank">EMMET</a></br>
 <a href="http://spicedpages.ru/2015/12/13/command-line/" target="_blank">Emmet / spiced</a></br>
 
 
@@ -33,5 +32,6 @@
 <a href="https://teamtreehouse.com" target="_blank">treehouse.com</a></br>
 <a href="https://htmlacademy.ru/" target="_blank">htmlacademy.ru</a></br>
 
-
+<h1>Browsers</h1>
+<a href="https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014305-CH1-SW1" target="_blank">Safari</a></br>
 
