@@ -1,6 +1,6 @@
 # source
 <h1>CSS</h1>
-<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="blank">Flexbox</a></br>
+<a href="http://spicedpages.ru/2016/01/21/flexbox/" target="blank">Flexbox</a></br>
 <a href="http://spicedpages.ru/2016/01/10/shapes/" target="blank">Shapes / clip-path/ masking</a></br>
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
 <a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
@@ -22,6 +22,7 @@
 
 <h1>Tools</h1>
 <a href="http://spicedpages.ru/2015/12/13/command-line/" target="_blank">Emmet / spiced</a></br>
+<a href="http://loudlinks.rocks/" target="_blank">Add sound</a></br>
 
 
 <h1>Docs/Schools</h1>
