@@ -25,6 +25,7 @@
 <h1>Tools</h1>
 <a href="http://spicedpages.ru/2015/12/13/command-line/" target="_blank">Emmet / spiced</a></br>
 <a href="http://loudlinks.rocks/" target="_blank">Add sound</a></br>
+<a href="http://basehold.it/" target="_blank">basehold.it</a></br>
 
 
 <h1>Docs/Schools</h1>
