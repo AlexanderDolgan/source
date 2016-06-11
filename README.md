@@ -17,6 +17,8 @@
 <a href="http://www.cssfontstack.com/" target="_blank">A complete collection of web safe CSS font stacks.</a></br>
 <a href="https://css-tricks.com/snippets/css/using-font-face/" target="_blank">Use @font-face / CCS-Tricks</a></br>
 
+<a href="http://webtypography.net/" target="_blank">The Elements of Typographic Style Applied to the Web</a></br>
+
 <h1>Test</h1>
 <a href="http://tools.pingdom.com/fpt/" target="_blank">Pingdom Website Speed Test</a></br>
 
