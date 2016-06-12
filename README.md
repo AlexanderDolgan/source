@@ -12,7 +12,7 @@
 <a href="https://css-tricks.com/using-svg/" target="_blank">Using SVG / CSS-Tricks</a></br>
 
 
-<h1>Type</h1>
+<h1>Typo</h1>
 <a href="https://everythingfonts.com/font-face" target="_blank">Font-face generator</a></br>
 <a href="http://www.cssfontstack.com/" target="_blank">A complete collection of web safe CSS font stacks.</a></br>
 <a href="https://css-tricks.com/snippets/css/using-font-face/" target="_blank">Use @font-face / CCS-Tricks</a></br>
