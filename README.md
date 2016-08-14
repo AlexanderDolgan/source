@@ -1,9 +1,15 @@
 # source
+<h1>HTML</h1>
+<a href="http://babich.biz/10-rules-for-efficient-form-design/" target="blank">Form rules</a>
+
 <h1>CSS</h1>
 <a href="http://spicedpages.ru/2016/01/21/flexbox/" target="blank">Flexbox</a></br>
 <a href="http://spicedpages.ru/2016/01/10/shapes/" target="blank">Shapes / clip-path/ masking</a></br>
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
 <a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
+
+<h1>Grids</h1>
+<a href="http://susydocs.oddbird.net/en/latest/" target="_blank">Susy</a>
 
 <h1>SVG</h1>
 <a href="http://www.mobilefish.com/services/base64/base64.php" target="_blank">Base64 encoder and decoder</a></br>
@@ -27,6 +33,8 @@
 <a href="http://loudlinks.rocks/" target="_blank">Add sound</a></br>
 <a href="http://basehold.it/" target="_blank">basehold.it</a></br>
 
+<h1>Metods</h1>
+<a href="https://smacss.com/" target="_blank"> SMACSS</a>
 
 <h1>Docs/Schools</h1>
 <a href="https://www.webplatform.org/" target="_blank">Webplatform</a></br>
