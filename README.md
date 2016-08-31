@@ -8,6 +8,33 @@
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
 <a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
 
+<h1>JS</h1>
+<h3>Plug-ins</h3>
+
+<a href="http://anime-js.com/" target="blank">Anime.js</a></br>
+<a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
+
+<h4>Forms</h4>
+<a href="http://nosir.github.io/cleave.js/" target="blank">cleave.js</a></br>
+
+<a href="http://felicegattuso.com/projects/datedropper/" target="blank">Datedropper</a></br>
+<a href="http://www.gravmatt.com/force-js/" target="blank">Force.js - move elements</a></br>
+
+<h4>pictures/video</h4>
+<a href="http://benhowdle.im/grade/" target="blank">Gradient for pictures backgrouund</a></br>
+<a href="https://github.com/SodhanaLibrary/jqGifPreview" target="blank">Giff preview</a></br>
+<a href="https://rishabhp.github.io/bideo.js/" target="blank">Full screen bg video</a></br>
+
+<h4>Modal/Popup/Notifications</h4>
+<a href="http://izimodal.marcelodolce.com" target="blank">izimodal</a></br>
+<a href="http://nickersoft.github.io/push.js/" target="blank">Desktop Push notification</a></br>
+
+<h4>Sliders</h4>
+<a href="http://polarnotion.github.io/turntable/" target="blank">Turntable</a></br>
+
+<h4>social</h4>
+<a href="http://ireade.github.io/inlinetweetjs/" target="blank">Inline Twitter</a></br>
+
 <h1>Grids</h1>
 <a href="http://susydocs.oddbird.net/en/latest/" target="_blank">Susy</a>
 
