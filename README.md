@@ -13,6 +13,7 @@
 
 <a href="http://anime-js.com/" target="blank">Anime.js</a></br>
 <a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
+<a href="https://www.stilllife.studio/txtwav" target="blank">txt.wav</a></br>
 
 <h4>Forms</h4>
 <a href="http://nosir.github.io/cleave.js/" target="blank">cleave.js</a></br>
@@ -24,6 +25,7 @@
 <a href="http://benhowdle.im/grade/" target="blank">Gradient for pictures backgrouund</a></br>
 <a href="https://github.com/SodhanaLibrary/jqGifPreview" target="blank">Giff preview</a></br>
 <a href="https://rishabhp.github.io/bideo.js/" target="blank">Full screen bg video</a></br>
+<a href="https://sarcadass.github.io/granim.js/" target="blank">granim.js</a></br>
 
 <h4>Modal/Popup/Notifications</h4>
 <a href="http://izimodal.marcelodolce.com" target="blank">izimodal</a></br>
