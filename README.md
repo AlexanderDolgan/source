@@ -14,6 +14,7 @@
 <a href="http://anime-js.com/" target="blank">Anime.js</a></br>
 <a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
 <a href="https://www.stilllife.studio/txtwav" target="blank">txt.wav</a></br>
+<a href="https://matejkustec.github.io/SpinThatShit/" target="blank">spinners</a></br>
 
 <h4>Forms</h4>
 <a href="http://nosir.github.io/cleave.js/" target="blank">cleave.js</a></br>
