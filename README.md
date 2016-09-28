@@ -27,6 +27,14 @@
 <a href="https://github.com/SodhanaLibrary/jqGifPreview" target="blank">Giff preview</a></br>
 <a href="https://rishabhp.github.io/bideo.js/" target="blank">Full screen bg video</a></br>
 <a href="https://sarcadass.github.io/granim.js/" target="blank">granim.js</a></br>
+<a href="http://www.cssfilters.co/" target="blank">cssfilters</a></br>
+
+<h1>Colors</h1>
+<a href="http://www.palettable.io/" target="_blank">palettable</a></br>
+<a href="https://colordrop.io/#" target="_blank">colordrop</a></br>
+<a href="https://www.impalette.com/" target="_blank">impalette</a></br>
+<a href="https://www.materialpalette.com/" target="_blank">materialpalette</a></br>
+<a href="http://color.koya.io/" target="_blank">color.koya.</a></br>
 
 <h4>Modal/Popup/Notifications</h4>
 <a href="http://izimodal.marcelodolce.com" target="blank">izimodal</a></br>
@@ -43,6 +51,8 @@
 
 <h1>SVG</h1>
 <a href="http://www.mobilefish.com/services/base64/base64.php" target="_blank">Base64 encoder and decoder</a></br>
+
+
 
 <h2>article</h2>
 <a href="https://css-tricks.com/using-svg/" target="_blank">Using SVG / CSS-Tricks</a></br>
