@@ -15,12 +15,15 @@
 <a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
 <a href="https://www.stilllife.studio/txtwav" target="blank">txt.wav</a></br>
 <a href="https://matejkustec.github.io/SpinThatShit/" target="blank">spinners</a></br>
+<a href="http://www.gravmatt.com/force-js/" target="blank">Force.js - move elements</a></br>
 
 <h4>Forms</h4>
 <a href="http://nosir.github.io/cleave.js/" target="blank">cleave.js</a></br>
 <a href="https://hyperform.js.org/" target="blank">form validation</a></br>
 <a href="http://felicegattuso.com/projects/datedropper/" target="blank">Datedropper</a></br>
-<a href="http://www.gravmatt.com/force-js/" target="blank">Force.js - move elements</a></br>
+
+<h4>Animations</h4>
+<a href="http://thednp.github.io/kute.js/index.html">Kute.js</a></br>
 
 <h4>pictures/video</h4>
 <a href="http://benhowdle.im/grade/" target="blank">Gradient for pictures backgrouund</a></br>
