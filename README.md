@@ -18,7 +18,7 @@
 
 <h4>Forms</h4>
 <a href="http://nosir.github.io/cleave.js/" target="blank">cleave.js</a></br>
-
+<a href="https://hyperform.js.org/" target="blank">form validation</a></br>
 <a href="http://felicegattuso.com/projects/datedropper/" target="blank">Datedropper</a></br>
 <a href="http://www.gravmatt.com/force-js/" target="blank">Force.js - move elements</a></br>
 
