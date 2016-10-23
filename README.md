@@ -10,8 +10,7 @@
 
 <h1>JS</h1>
 <h3>Plug-ins</h3>
-
-<a href="http://anime-js.com/" target="blank">Anime.js</a></br>
+<a href="https://sachinchoolur.github.io/lightgallery.js/demos/responsive.html">Lightgallery</a></br>
 <a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
 <a href="https://www.stilllife.studio/txtwav" target="blank">txt.wav</a></br>
 <a href="https://matejkustec.github.io/SpinThatShit/" target="blank">spinners</a></br>
@@ -23,6 +22,7 @@
 <a href="http://felicegattuso.com/projects/datedropper/" target="blank">Datedropper</a></br>
 
 <h4>Animations</h4>
+<a href="http://anime-js.com/" target="blank">Anime.js</a></br>
 <a href="http://thednp.github.io/kute.js/index.html">Kute.js</a></br>
 
 <h4>pictures/video</h4>
