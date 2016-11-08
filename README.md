@@ -8,6 +8,9 @@
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
 <a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
 
+<h1>Patterns</h1>
+<a href="http://codepen.io/patterns" target="_blank">Codepen CSS/HTML patterns</a>
+
 <h1>JS</h1>
 <h3>Plug-ins</h3>
 <a href="https://sachinchoolur.github.io/lightgallery.js/demos/responsive.html">Lightgallery</a></br>
