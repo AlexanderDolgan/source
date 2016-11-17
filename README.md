@@ -14,7 +14,7 @@
 
 <h1>JS</h1>
 <h3>Plug-ins</h3>
-<a href="https://sachinchoolur.github.io/lightgallery.js/demos/responsive.html">Lightgallery</a></br>
+<a href="http://fotorama.io/">Fotorama</a></br>
 <a href="https://scrollrevealjs.org/" target="blank">scroll reveals</a></br>
 <a href="https://www.stilllife.studio/txtwav" target="blank">txt.wav</a></br>
 <a href="https://matejkustec.github.io/SpinThatShit/" target="blank">spinners</a></br>
