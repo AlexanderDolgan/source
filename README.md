@@ -26,6 +26,7 @@
 <a href="http://felicegattuso.com/projects/datedropper/" target="blank">Datedropper</a></br>
 
 <h4>Animations</h4>
+<a href="http://mojs.io/" target="blank">mojs</a></br>
 <a href="http://anime-js.com/" target="blank">Anime.js</a></br>
 <a href="http://thednp.github.io/kute.js/index.html">Kute.js</a></br>
 
