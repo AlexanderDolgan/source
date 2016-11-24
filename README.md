@@ -88,6 +88,7 @@
 <a href="https://www.webplatform.org/" target="_blank">Webplatform</a></br>
 <a href="https://learn.javascript.ru/" target="_blank">Learn JavaScript</a></br>
 <a href="https://scanlibs.com/" target="_blank">scanlibs</a></br>
+<a href="http://www.angular2.com/" target="_blank">angular2</a></br>
 
 <a href="https://www.codecademy.com" target="_blank">codecademy.com</a></br>
 <a href="https://teamtreehouse.com" target="_blank">treehouse.com</a></br>
