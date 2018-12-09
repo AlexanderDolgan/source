@@ -7,7 +7,7 @@
 <a href="http://spicedpages.ru/2016/01/10/shapes/" target="blank">Shapes / clip-path/ masking</a></br>
 <a href="http://spicedpages.ru/2016/01/12/data-uri/" target="blank">Data URI</a></br>
 <a href="http://spicedpages.ru/2016/01/14/animation/" target="blank">Animation</a></br>
-<a href="https://github.com/kjbrum/juice" target="_blank">Juice SCSS mixins</a>
+<a href="https://github.com/prettier/prettier" target="_blank">prettier</a>
 
 <h1>Patterns</h1>
 <a href="http://codepen.io/patterns" target="_blank">Codepen CSS/HTML patterns</a>
